@@ -1,0 +1,3 @@
+This project is the home page for the Everything Cinema Productions website.  The goal was to begin a redesign, which was built on one of the web's prominent template hosts.  Its current state is far from optimum, with poorly structured and ill-fitting content among the list of issues.  This project has been an attempt to establish a foundation for a rebuild which would alleviate the present problems.
+
+Instructions: Double-click index.html.  Links on the page are not currently active.  An interactive JS/jQuery hamburger toggle menu is available on screens smaller than 1015px, while an interactive JS/jQuery hover dropdown menu is available for select links on screens wider than the breakpoint.
