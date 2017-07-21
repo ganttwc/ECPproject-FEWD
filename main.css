@@ -2,6 +2,7 @@
   box-sizing: border-box;
 }
 
+
 /* HEADER */
 
 header {
@@ -14,6 +15,7 @@ header {
 .container {
  overflow: auto;
 }
+
 
 /* TOGGLE */
 
@@ -30,12 +32,12 @@ header {
   margin-left: 5%;
 }
 
+
 /* NAVIGATION */
 
 nav {
   overflow: auto;
 }
-
 
 nav ul {
   list-style-type: none;
@@ -71,6 +73,7 @@ nav a:hover {
   padding-right: 2.5%;
 }
 
+
 /* SECTION */
 
 #wrapper {
@@ -83,6 +86,7 @@ nav a:hover {
   max-width: 100%;
   height: auto;
 }
+
 
 /* FOOTER */
 
@@ -112,9 +116,7 @@ footer p {
 
 
 
-
-
-
+/* MEDIA QUERIES */
 
 @media (min-width: 1015px) {
 
